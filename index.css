@@ -1,0 +1,26 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* .text{
+  color: brown;
+  text-align: center;
+  text-transform: capitalize;
+  font-weight: bold;
+  text-shadow: 0px 2px 4px #fe9cfe;
+  margin: 50px 0;
+  font-family: 'Josefin Sans', sans-serif;
+} */
+
+.div-img{
+  display: flex;
+  justify-content: center;
+}
+
+.div-img img{
+  width: 200px;
+  height: 250px;
+  
+}
